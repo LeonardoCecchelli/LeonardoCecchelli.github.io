@@ -8,10 +8,7 @@ a single airport, route or airline. For this reasons we decided to create Skynet
 Skynet is an application capable of gathering data from the U.S. Department of Transportation website through a
 web scraper implemented inside of it. The data is then analyzed, processed and distributed on multiple database realized through MongoDB and Neo4j
 technologies, which are necessary to achieve a good tradeoff between performances, reliability and availability.
-<br>
-<br>
-<a href='/files/Skynet_documentation.pdf'><b>Documentation</b></a>
-<a href='/files/Skynet_sourcecode.zip'><b>Source code</b></a>"
+<br>"
 collection: portfolio
 ---
 
