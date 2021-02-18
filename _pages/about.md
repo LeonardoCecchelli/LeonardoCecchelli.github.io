@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Leonardo Cecchelli personal academic page"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
