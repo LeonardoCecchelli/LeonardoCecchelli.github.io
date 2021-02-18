@@ -1,6 +1,6 @@
 ---
 title: "EventCrate: a web application for event reservations"
-excerpt: "This project was made as part of the exam 'Progettazione Web' during my bachelor degree. The main goals were to build
+excerpt: "This project was made as part of the exam 'Progettazione Web' during my Bachelor's degree. The main goals were to build
 a web application that would let users create or participate to events of various categories. The application is inspired from the
 famous EventBrite portal which is one of the most used in this sector.
 <br>
@@ -9,7 +9,7 @@ famous EventBrite portal which is one of the most used in this sector.
 collection: portfolio
 ---
 
-This project was made as part of the exam 'Progettazione Web' during my bachelor degree. The main goals were to build
+This project was made as part of the exam 'Progettazione Web' during my Bachelor's degree. The main goals were to build
 a web application that would let users create or participate to events of various categories. The application is inspired from the
 famous EventBrite portal which is one of the most used in this sector.
 <br>
