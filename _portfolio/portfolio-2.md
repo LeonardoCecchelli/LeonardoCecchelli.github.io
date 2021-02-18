@@ -9,8 +9,9 @@ Skynet is an application capable of gathering data from the U.S. Department of T
 web scraper implemented inside of it. The data is then analyzed, processed and distributed on multiple database realized through MongoDB and Neo4j
 technologies, which are necessary to achieve a good tradeoff between performances, reliability and availability.
 <br>
-<a href='/files/Skynet_documentation.pdf'>Documentation</a>
-<a href='/files/Skynet_sourcecode.zip'>Source code</a>"
+<br>
+<a href='/files/Skynet_documentation.pdf'><b>Documentation</b></a>
+<a href='/files/Skynet_sourcecode.zip'><b>Source code</b></a>"
 collection: portfolio
 ---
 
@@ -23,5 +24,6 @@ Skynet is an application capable of gathering data from the U.S. Department of T
 web scraper implemented inside of it. The data is then analyzed, processed and distributed on multiple database realized through MongoDB and Neo4j
 technologies, which are necessary to achieve a good tradeoff between performances, reliability and availability.
 <br>
-<a href='/files/Skynet_documentation.pdf'>Documentation</a>
-<a href='/files/Skynet_sourcecode.zip'>Source code</a>
+<br>
+<a href='/files/Skynet_documentation.pdf'><b>Documentation</b></a>
+<a href='/files/Skynet_sourcecode.zip'><b>Source code</b></a>
