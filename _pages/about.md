@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My main intrests are Cybersecurity, Distributed systems and machine learning.
+My main interests are Cybersecurity, Distributed systems and machine learning.
